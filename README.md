@@ -16,13 +16,17 @@ Professional Highlights
 Tech Toolbox 
 
 • Languages: Python, SQL, R, STATA, MATLAB
+
 • Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+
 • Tools: AWS, Git, HPC
+
 • Specialties: Causal Inference, Econometrics
 
 Education
 
 • Masters in Economics and Social Sciences, Bocconi University 
+
 • Bachelors in Mathematics and Economics, Warwick University
 
 Certifications
