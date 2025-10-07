@@ -1,9 +1,13 @@
 ### Hi there 👋 My name is Marco
 
-1 United Kingdom
-• Email: marco.cerundo@gmail.com
-9 Linkedin: 
-• GitHub: MarcoCerundolo
+📍 United Kingdom 
+
+📧 Email: marco.cerundo@gmail.com
+
+🔗 Linkedin: www.linkedin.com/in/marco-cerundolo-5a21241ab
+
+💡 GitHub: MarcoCerundolo
+
 About Me:
 
 Professional Highlights
