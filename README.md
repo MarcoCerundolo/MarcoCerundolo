@@ -1,17 +1,22 @@
 ### Hi there 👋 My name is Marco
 
+1 United Kingdom
+• Email: marco.cerundo@gmail.com
+9 Linkedin: 
+• GitHub: MarcoCerundolo
+About Me:
 
-<!--
-**MarcoCerundolo/MarcoCerundolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional Highlights
+• 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Toolbox #
+• Languages: Python, SQL, R, STATA, MATLAB
+• Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+• Tools: AWS, Git, HPC
+• Specialties: Causal Inference, Econometrics
+Education
+• Masters in Economics and Social Sciences, Bocconi University 
+• Bachelors in Mathematics and Economics, Warwick University
+Certifications
+• Coursera: SQL, Python, Machine Learning
+Let's ideate, innovate, and build cool expericnes with Al. Reach out for collaborations or simply to chat!
