@@ -11,6 +11,7 @@
 About Me:
 
 Professional Experience
+
 • 2 years working as a Research Fellow at IGIER Bocconi on topics related to Political Economy. Worked extensively on data cleaning, causal inference and NLP using R and Python. 
 
 Tech Toolbox 
@@ -32,4 +33,5 @@ Education
 Certifications
 
 • Coursera: SQL, Python, Machine Learning
-Let's ideate, innovate, and build cool expericnes with Al. Reach out for collaborations or simply to chat!
+
+Reach out to chat!
