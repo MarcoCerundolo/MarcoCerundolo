@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Marco
 
-📍 United Kingdom 
+📍 London, United Kingdom 
 
 📧 Email: marco.cerundo@gmail.com
 
