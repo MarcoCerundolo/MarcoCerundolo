@@ -10,8 +10,8 @@
 
 About Me:
 
-Professional Highlights
-• 
+Professional Experience
+• 2 years working as a Research Fellow at IGIER Bocconi on topics related to Political Economy. Worked extensively on data cleaning, causal inference and NLP using R and Python. 
 
 Tech Toolbox 
 
